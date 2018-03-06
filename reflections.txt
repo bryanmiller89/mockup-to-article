@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Skills:
+-Learned HTML layout of web pages
+-External vs internal paths and how to incorporate them in html links (images and anchors)
+-Basics on child/parent relationships of specific html elements
+-Using w3schools and MDN for researching topics and elements not specifically mentioned
+-Translating a mockup to a functional webpage
+
+Easy:
+-Nearly everything mentioned up to this point has been something I have seen or worked with before
+
+Difficult:
+-I wouldn't say difficult, but one thing that I didn't have prior experience with/seen was the <figure> and <figcaption> for images
